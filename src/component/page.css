@@ -1,0 +1,51 @@
+.circle {
+    width: 20px;
+    height: 20px;
+    background-color: azure;
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+.scircle {
+    width: 25px;
+    height: 25px;
+
+    border: 2px solid;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.row {
+    width: 100%;
+
+    border-top: 1px solid;
+
+}
+
+
+.btnlist {
+    padding: 10px;
+    ;
+    font-weight: 100px;
+}
+.check{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.contentContainer{
+
+    cursor: pointer;
+}
+.trask{
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    /* border: 1px solid; */
+    cursor: pointer;
+}
+.taskicon{
+    width: 100%;
+    height: 100%;
+}
